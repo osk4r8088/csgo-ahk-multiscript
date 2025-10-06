@@ -1,4 +1,4 @@
-# CSGObhop-AHK-script
+# CSGO KZ Multiscript
 A small weekend project of me (since I had no knowledge of coding scripts feel free to make improvments)
 
 Instructions:
